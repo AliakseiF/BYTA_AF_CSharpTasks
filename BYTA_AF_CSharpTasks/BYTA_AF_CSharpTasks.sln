@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BYTA_AF_Calculator", "BYTA_AF_calculator\BYTA_AF_Calculator.csproj", "{A692FFDC-B346-4916-84D6-A6EB2855476C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BYTA_AF_Arrays", "BYTA_AF_Arrays\BYTA_AF_Arrays.csproj", "{DE3031BE-E3F1-46FD-9AAF-8B7ED6F7D0A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BYTA_AF_Sorting", "BYTA_AF_Sorting\BYTA_AF_Sorting.csproj", "{DFEB177A-B9A3-4C72-9F98-54485C6A4ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A692FFDC-B346-4916-84D6-A6EB2855476C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A692FFDC-B346-4916-84D6-A6EB2855476C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A692FFDC-B346-4916-84D6-A6EB2855476C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A692FFDC-B346-4916-84D6-A6EB2855476C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3031BE-E3F1-46FD-9AAF-8B7ED6F7D0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3031BE-E3F1-46FD-9AAF-8B7ED6F7D0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3031BE-E3F1-46FD-9AAF-8B7ED6F7D0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3031BE-E3F1-46FD-9AAF-8B7ED6F7D0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFEB177A-B9A3-4C72-9F98-54485C6A4ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEB177A-B9A3-4C72-9F98-54485C6A4ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEB177A-B9A3-4C72-9F98-54485C6A4ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEB177A-B9A3-4C72-9F98-54485C6A4ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
